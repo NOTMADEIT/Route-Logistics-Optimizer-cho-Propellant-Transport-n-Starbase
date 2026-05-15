@@ -15,6 +15,14 @@ Dự án tối ưu hóa tuyến đường vận chuyển propellant cho Starbase
 - Visualization (Plotly/Streamlit)
 - Simulation
 
+## Mục tiêu dự án
+- Xây dựng công cụ tối ưu hóa tuyến đường vận chuyển propellant hiệu quả cho Starbase.
+- Giảm thời gian delay và chi phí vận hành.
+
+## Trạng thái hiện tại
+✅ Đã khởi tạo repository và README.md
+🚧 Đang phát triển giai đoạn 1
+
 ## Cài đặt
 
 ```bash
